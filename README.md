@@ -1,6 +1,6 @@
-# Multi-Site-Network
+# Multi-Site-Network (Static Routing)
 
-# Multi-Site Network Lab — HQ and Branch Routing, VLANs, DHCP, ACLs, and VPN
+# Multi-Site Network Lab — HQ and Branch WAN, VLANs, DHCP, ACLs 
 
 ## Current Status
 
